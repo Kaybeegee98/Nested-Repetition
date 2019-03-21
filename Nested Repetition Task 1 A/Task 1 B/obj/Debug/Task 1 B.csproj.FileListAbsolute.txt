@@ -1,0 +1,6 @@
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 1 B\bin\Debug\Task 1 B.exe.config
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 1 B\bin\Debug\Task 1 B.exe
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 1 B\bin\Debug\Task 1 B.pdb
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 1 B\obj\Debug\Task 1 B.csprojResolveAssemblyReference.cache
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 1 B\obj\Debug\Task 1 B.exe
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 1 B\obj\Debug\Task 1 B.pdb

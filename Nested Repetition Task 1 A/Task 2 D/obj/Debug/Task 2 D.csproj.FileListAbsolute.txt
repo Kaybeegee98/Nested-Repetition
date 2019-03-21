@@ -1,0 +1,5 @@
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 2 D\bin\Debug\Task 2 D.exe.config
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 2 D\bin\Debug\Task 2 D.exe
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 2 D\bin\Debug\Task 2 D.pdb
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 2 D\obj\Debug\Task 2 D.exe
+C:\Users\kaybe\Documents\SharpDevelop Projects\Nested Repetition Task 1 A\Task 2 D\obj\Debug\Task 2 D.pdb
